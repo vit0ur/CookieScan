@@ -1,0 +1,11 @@
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joliveia\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
